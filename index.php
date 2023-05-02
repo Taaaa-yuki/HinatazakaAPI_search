@@ -1,3 +1,3 @@
 <?php
-    include_once("view/member.php");
+    include_once("./app/view/member.php");
 ?>

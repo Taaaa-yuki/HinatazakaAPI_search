@@ -1,5 +1,5 @@
 <?php
-require_once('controller/search.php');
+require_once('app/controller/search.php');
 ?>
 
 <!DOCTYPE html>
@@ -7,13 +7,13 @@ require_once('controller/search.php');
 <head>
     <meta charset="UTF-8">
     <title>HinatazakaAPI</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="public/css/style.css">
 </head>
 <body>
     <header>
         <nav>
             <div class="title">
-                <img src="img/Hinatazaka46_logo.png" alt="HinatazakaAPI" width="50px" height="60px">
+                <img src="public/img/Hinatazaka46_logo.png" alt="HinatazakaAPI" width="50px" height="60px">
                 <h1><a href="index.php">HinatazakaAPI</a></h1>
             </div>
             <ul>
@@ -65,6 +65,6 @@ require_once('controller/search.php');
     <footer id="footer">
         <p>&copy; 2023 HinatazakaAPI</p>
     </footer>
-    <script type="text/javascript" src="./js/footerFixed.js"></script>
+    <script type="text/javascript" src="public/js/footerFixed.js"></script>
 </body>
 </html>
