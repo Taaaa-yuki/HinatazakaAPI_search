@@ -25,7 +25,3 @@ This project is a web application that allows you to search for information on t
 ## Example
 
 <img width="909" alt="example" src="https://github.com/Taaaa-yuki/HinatazakaAPI_search/assets/82790806/fd50b135-94cb-4d28-8865-f8299701ddc5">
-
-##　　
-
-Thank you for using Hinatazaka_search!
