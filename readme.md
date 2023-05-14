@@ -1,6 +1,6 @@
-# Hinatazaka_search
+# HinatazakaAPI_search
 
-<img src="https://img.shields.io/badge/PHP-v8.0.28-purple?logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Composer-v2.5.4-gleen?logo=composer&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-v8.0.28-purple?logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Composer-v2.5.4-gleen?logo=composer&logoColor=white"><img src="https://img.shields.io/github/commit-activity/m/Taaaa-yuki/HinatazakaAPI_search?logo=github"> <img src="https://img.shields.io/github/repo-size/Taaaa-yuki/HinatazakaAPI_search?logo=github">
 
 This project is a web application that allows you to search for information on the members of Hinatazaka46.
 
