@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/PHP-v8.0.28-purple?logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Composer-v2.5.4-gleen?logo=composer&logoColor=white">
 
-This project is a web application that allows you to search for information on the members of Hyuugaizaka46.
+This project is a web application that allows you to search for information on the members of Hinatazaka46.
 
 ## Installation
 
@@ -25,5 +25,7 @@ This project is a web application that allows you to search for information on t
 ## Example
 
 <img width="909" alt="example" src="https://github.com/Taaaa-yuki/HinatazakaAPI_search/assets/82790806/fd50b135-94cb-4d28-8865-f8299701ddc5">
+
+---
 
 Thank you for using Hinatazaka_search!
